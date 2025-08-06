@@ -33,3 +33,6 @@ int main() {
     findMinMaxSum(list, 5);
     return 0;
 }
+
+
+// have solved all problems
